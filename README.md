@@ -115,10 +115,10 @@ Research on multi-object tracking algorithms for fish based on computer vision, 
 
 ### Latest Updates
 
+- **2025**: Released RandomEat Mini Program
 - **2024**: Improved mobile responsiveness for Lynx Player
 - **2023**: Added new features to GameSouls community platform
 - **2023**: Enhanced fish tracking algorithm performance
-- **2022**: Released RandomEat Mini Program
 
 ## 📮 Contact Information
 
