@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/455d989d-7243-4913-b20e-6c8cc92e94cc" width="50" height="50" alt="Lynx"> LynxHawk Portfolio
+# 🦅 LynxHawk Portfolio
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lynxhawk)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://lynxhawk.com)
